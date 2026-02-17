@@ -1,0 +1,25 @@
+# Node
+node_modules/
+
+# Next.js (client build)
+client/.next/
+client/out/
+client/.next.cache/
+
+# Environment variables
+*.env
+*.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Build outputs
+dist/
+coverage/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
